@@ -12,7 +12,7 @@
   (Python bagus untuk pemula yang belum pernah coding)
   
 - Pada kali ini kita akan membuat program python **Menentukan Bilangan Terbesar Dari 3 Buah Bilangan**
- seperti judul yang diatas :) ,dengan menghubungkan anatara aplikasi notepad dan python
+ seperti judul yang diatas ,dengan menghubungkan anatara aplikasi notepad dan python
 - Apakah kalian sudah punya aplikasi *PYTHON*  ,jika belum punya silahkan klik link ini [link ini](https://filehippo.com/download_python/)
 - Jika Sudah seperti biasa mendownload Apk lainnya hanya klik next - next - lalu finish :smiley:
 - Kita buka notepad terlebih dahulu(bisa juga dilakukan oleh aplikasi editor text lainnya)
@@ -27,7 +27,7 @@
 ![Image are easy](https://github.com/MuhammadNurFahmi/Labpy1/blob/master/penyimpanan%20pada%20notepad.png)
 
 
--Jika sudah disimpan maka pilih folder penyimpanan tadi yang anda simpan,logo pada file tersebut pun akan menjadi logo *Pyhthon*
+-Jika sudah disimpan maka pilih folder penyimpanan tadi yang anda simpan,logo pada file tersebut pun akan menjadi logo *Python*
 
 ![image are easy](https://github.com/MuhammadNurFahmi/Labpy1/blob/master/logo%20berubah%20menjadi%20python.png)
 
