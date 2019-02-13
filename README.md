@@ -14,7 +14,7 @@
 - Pada kali ini kita akan membuat program python **Menentukan Bilangan Terbesar Dari 3 Buah Bilangan**
  seperti judul yang diatas :) ,dengan menghubungkan anatara aplikasi notepad dan python
 - Apakah kalian sudah punya aplikasi *PYTHON*  ,jika belum punya silahkan klik link ini [link ini](https://filehippo.com/download_python/)
-- Jika Sudah seperti biasa mendownload Apk lainnya hanya klik next - next - lalu finish :)
+- Jika Sudah seperti biasa mendownload Apk lainnya hanya klik next - next - lalu finish :D
 - Kita buka notepad terlebih dahulu(bisa juga dilakukan oleh aplikasi editor text lainnya)
 - Dan ketikan kodingan seperti ini
 
@@ -61,7 +61,7 @@
   ![image are easy](https://github.com/MuhammadNurFahmi/Labpy1/blob/master/meme%20python.PNG)
   
   
-  hanya untuk menuliskan hello world saja :) :)
+  hanya untuk menuliskan hello world saja :D :D
   
   **SELAMAT MENCOBA,SEMOGA SUKSES,DAN TERIMA KASIH**
   
