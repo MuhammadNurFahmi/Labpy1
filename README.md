@@ -21,8 +21,6 @@
 ![Image are easy](https://github.com/MuhammadNurFahmi/Labpy1/blob/master/codingan%20di%20notepad.PNG)
 
 
-![image are easy](https://github.com/MuhammadNurFahmi/Labpy1/blob/master/program%20menentukan%20bilangan%20terbesar%20dari%203%20buah%20bilangan.py)
-
 
 - Jika sudah Klik save pada lembar kerja (notepad) kalian,atau bisa juga klik **CTRL+S**
 
@@ -69,6 +67,8 @@
   hanya untuk menuliskan hello world saja :smiley:  :smiley:
   
   **SELAMAT MENCOBA,SEMOGA SUKSES,DAN TERIMA KASIH**
+  
+  
   
   
   
