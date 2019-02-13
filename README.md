@@ -3,7 +3,7 @@
 **Program Menentukan Bilangan Terbesar dari 3 Buah Bilangan**
 
 **Apa Itu Pyhthon ...????**
-- Kita bahasa sebentar tentang *Python*
+- Kita bahas sebentar tentang *Python*
 - Python merupakan bahasa pemrograman tingkat tinggi yang diracik oleh
   **Guido Van Rossum**
 - Python banyak digunakan untuk membuat berbagai macam program, 
@@ -14,11 +14,14 @@
 - Pada kali ini kita akan membuat program python **Menentukan Bilangan Terbesar Dari 3 Buah Bilangan**
  seperti judul yang diatas :) ,dengan menghubungkan anatara aplikasi notepad dan python
 - Apakah kalian sudah punya aplikasi *PYTHON*  ,jika belum punya silahkan klik link ini [link ini](https://filehippo.com/download_python/)
-- Jika Sudah seperti biasa mendownload Apk lainnya hanya klik next - next - lalu finish :D
+- Jika Sudah seperti biasa mendownload Apk lainnya hanya klik next - next - lalu finish :smiley:
 - Kita buka notepad terlebih dahulu(bisa juga dilakukan oleh aplikasi editor text lainnya)
 - Dan ketikan kodingan seperti ini
 
 ![Image are easy](https://github.com/MuhammadNurFahmi/Labpy1/blob/master/codingan%20di%20notepad.PNG)
+
+
+![image are easy](https://github.com/MuhammadNurFahmi/Labpy1/blob/master/program%20menentukan%20bilangan%20terbesar%20dari%203%20buah%20bilangan.py)
 
 
 - Jika sudah Klik save pada lembar kerja (notepad) kalian,atau bisa juga klik **CTRL+S**
@@ -26,7 +29,7 @@
 ![Image are easy](https://github.com/MuhammadNurFahmi/Labpy1/blob/master/penyimpanan%20pada%20notepad.png)
 
 
--Jika sudah disimpan maka pilih folder penyimpanan tadi yang anda simpan,logo pada file tersebut pun akan menjadi logo *Pyhthoon*
+-Jika sudah disimpan maka pilih folder penyimpanan tadi yang anda simpan,logo pada file tersebut pun akan menjadi logo *Pyhthon*
 
 ![image are easy](https://github.com/MuhammadNurFahmi/Labpy1/blob/master/logo%20berubah%20menjadi%20python.png)
 
@@ -55,13 +58,15 @@
 
 
 - Sangat mudah bukan..??
-  Bahasa Python adalah bahasa pemrograman yang paling mudah dipahami 
-  Pernah lihat meme seperti ini  :)
+  Bahasa Python adalah bahasa pemrograman yang paling mudah dipahami
+  
+  
+  Pernah lihat meme seperti ini  :smiley:
   
   ![image are easy](https://github.com/MuhammadNurFahmi/Labpy1/blob/master/meme%20python.PNG)
   
   
-  hanya untuk menuliskan hello world saja :D :D
+  hanya untuk menuliskan hello world saja :smiley:  :smiley:
   
   **SELAMAT MENCOBA,SEMOGA SUKSES,DAN TERIMA KASIH**
   
