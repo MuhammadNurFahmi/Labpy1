@@ -18,10 +18,10 @@
 - Kita buka notepad terlebih dahulu(bisa juga dilakukan oleh aplikasi editor text lainnya)
 - Dan ketikan kodingan seperti ini
 
-"print ('program untuk menentukan 3 bilangan terbesar')
+> print ('program untuk menentukan 3 bilangan terbesar')
 
 
-print('Masukkan 3 bilangan yang diigingkan')
+> print('Masukkan 3 bilangan yang diigingkan')
 
 A= int(input("Masukan bilangan pertama : "))
 
@@ -37,7 +37,7 @@ elif B > A and B > C:
      print(B, "Terbesar dari 3 bilangan yang diinputkan")
 else:
    
-   print(C, "Terbesar dari 3 bilangan yang diinputkan")"
+   print(C, "Terbesar dari 3 bilangan yang diinputkan")
 
 
 
