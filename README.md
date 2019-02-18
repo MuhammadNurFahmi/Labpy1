@@ -52,7 +52,31 @@
 - Pilih menu **RUN** pada menu file diatas,atau bisa juga tekan **F5** 
   Jika program sudah jalan maka akan muncul seperti ini
   
+  
 ![image are easy](https://github.com/MuhammadNurFahmi/Labpy1/blob/master/hasil%20run%20python.PNG)
+
+
+- Itu adalah contoh hasil Jika yang pertama yang terbesar
+
+
+![image are easy](https://github.com/MuhammadNurFahmi/Labpy1/blob/master/hasil%20run%20python%202.PNG)
+
+
+- Ini Jika yang Kedua yang lebih besar
+
+
+![image are easy](https://github.com/MuhammadNurFahmi/Labpy1/blob/master/hasil%20run%20python%203.PNG)
+
+
+- Ini jika yang ketiga yang lebih besar
+
+
+
+- Dan ini adalah **FLOWCHART** *program menentukan 3 buah bilangan terbesar*
+
+
+![image are easy](https://github.com/MuhammadNurFahmi/Labpy1/blob/master/flowchart%203%20bilangan.jpg)
+
 
 
 - Sangat mudah bukan..??
